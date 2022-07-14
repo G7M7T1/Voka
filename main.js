@@ -25,3 +25,4 @@ gsap.to(".Main-text", {
     yoyo:true,
     repeatDelay:0.4
 })
+
